@@ -1,0 +1,21 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'The Daimon'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+
+SectionPagesMenu = "main"
+Paginate = 12 # this is set low for demonstrating with dummy content. Set to a higher number
+
+[params]
+  text_color = ""
+  author = "Gabriel Pereh"
+  favicon = ""
+  site_logo = ""
+  description = ""
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-navy"
+  recent_posts_number = 3
+
+[[params.ananke_socials]]
+name = "youtube"
+url = "www.youtube.com/channel/UCKNu7l9aHpBiAnYvrBn-tfA"
