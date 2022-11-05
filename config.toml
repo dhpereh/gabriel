@@ -9,8 +9,8 @@ Paginate = 12 # this is set low for demonstrating with dummy content. Set to a h
 [params]
   text_color = ""
   author = "Gabriel Pereh"
-  favicon = ""
-  site_logo = ""
+  favicon = "logo.svg"
+  site_logo = "logo.svg"
   description = ""
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-navy"
@@ -18,4 +18,4 @@ Paginate = 12 # this is set low for demonstrating with dummy content. Set to a h
 
 [[params.ananke_socials]]
 name = "youtube"
-url = "www.youtube.com/channel/UCKNu7l9aHpBiAnYvrBn-tfA"
+url = "https://www.youtube.com/channel/UCKNu7l9aHpBiAnYvrBn-tfA"

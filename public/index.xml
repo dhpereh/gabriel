@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Daimon</title>
+    <link>http://example.org/</link>
+    <description>Recent content on The Daimon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>In this community, our mission as individuals who value truth above comfort and a sense security, is to build personal strength and cultivate care for our world. We change along this process which resembles an alchemical process of purification. Thus, we can not identify with any ideology or movement, as it would restrict our freedom to venture into the unknown and hinder us from the process of leaving that which does not serve anymore the pursuit of truth, strength and ultimately the expression of love to the world in it&amp;rsquo;s totality.</description>
+    </item>
+    
+  </channel>
+</rss>
