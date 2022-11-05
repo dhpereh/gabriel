@@ -1,4 +1,4 @@
-baseURL = 'https://dhpereh.github.io/gabriel/'
+baseURL = 'www.thediamon.com'
 languageCode = 'en-us'
 title = 'The Daimon'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
