@@ -1,4 +1,3 @@
-baseURL = 'thediamon.art'
 languageCode = 'en-us'
 title = 'The Daimon'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
