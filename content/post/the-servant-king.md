@@ -3,6 +3,7 @@ title: "The Servant King"
 date: 2022-11-06T16:47:04+02:00
 featured_image: "../the-serpant-king.jpg"
 ---
+{{<figure src="../the-serpant-king-content.jpg" height="512px">}}
 The raw scent of a plant, the crystal's vital color, the animal's spirit, are in equanimity with themselves, in equilibrium, in a state of fidelity. They are always the helpers to us men who forget the sense for and the state of being "a single action" with our entire being.
 
 Our apparent and mechanical world clouds the sense for this residing spirit, and its own spirit is polluted with corruption.
