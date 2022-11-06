@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: ""
-featured_image: '../front.jpg'
+featured_image: '/front.jpg'
 menu:
   main:
     weight: 1
