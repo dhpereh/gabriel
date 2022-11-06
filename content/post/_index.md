@@ -1,6 +1,3 @@
 ---
-title: "Post"
 date: 2022-11-06T16:44:09+02:00
-draft: true
 ---
-
