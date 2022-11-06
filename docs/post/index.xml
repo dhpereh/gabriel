@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Daimon</title>
-    <link>/</link>
+    <link>/post/</link>
     <description>Recent content on The Daimon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Nov 2022 16:47:04 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2022 16:44:09 +0200</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Servant King</title>
       <link>/post/the-servant-king/</link>
@@ -15,15 +15,6 @@
       <guid>/post/the-servant-king/</guid>
       <description>The raw scent of a plant, the crystal&amp;rsquo;s vital color, the animal&amp;rsquo;s spirit, are in equanimity with themselves, in equilibrium, in a state of fidelity. They are always the helpers to us men who forget the sense for and the state of being &amp;ldquo;a single action&amp;rdquo; with our entire being.
 Our apparent and mechanical world clouds the sense for this residing spirit, and its own spirit is polluted with corruption. Our residing spirit is both life-giving and life-taking, it possesses both a force of destruction and a force which attempts to perpetuate new life as and by a particular virtue.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>In this community, our mission as individuals who value truth above comfort and a sense security, is to build personal strength and cultivate care for our world. We change along this process which resembles an alchemical process of purification. Thus, we can not identify with any ideology or movement, as it would restrict our freedom to venture into the unknown and hinder us from the process of leaving that which does not serve anymore the pursuit of truth, strength and ultimately the expression of love to the world in it&amp;rsquo;s totality.</description>
     </item>
     
   </channel>
